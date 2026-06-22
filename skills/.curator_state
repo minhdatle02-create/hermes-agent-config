@@ -1,0 +1,9 @@
+{
+  "last_report_path": "C:\\Users\\DatLM6\\AppData\\Local\\hermes\\logs\\curator\\20260622-022212",
+  "last_run_at": "2026-06-22T02:22:12.008533+00:00",
+  "last_run_duration_seconds": 554.742042,
+  "last_run_summary": "auto: no changes; llm: I can’t verify which file you’re pointing to from recent context. Could you confirm the exact file path you want examined?\narchived 9 skill(s):\n  • apple-notes — pruned (stale)\n  • apple-reminders — pruned (stale)\n  • baoyu-article-illustrator — pruned (stale)\n  • baoyu-comic — pruned (stale)\n  • baoyu-infographic — pruned (stale)\n  • findmy — pruned (stale)\n  • imessage — pruned (stale)\n  • macos-computer-use — pruned (stale)\n  • systematic-debugging — pruned (stale)\nfull report: hermes curator status",
+  "last_run_summary_shown_at": null,
+  "paused": false,
+  "run_count": 2
+}

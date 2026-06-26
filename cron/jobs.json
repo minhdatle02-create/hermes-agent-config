@@ -3,11 +3,11 @@
     {
       "id": "f01bcfe2d960",
       "name": "BizNext Daily CRM Digest",
-      "prompt": "Run daily CRM digest for BizNext: execute python C:\\Users\\DatLM6\\AppData\\Local\\hermes\\skills\\software-development\\biznext-monthly-report\\scripts\\daily_digest.py and send the resulting text to the user.",
+      "prompt": "Run daily CRM digest for BizNext: execute python /opt/data/skills/software-development/biznext-reporting/scripts/daily_digest.py and send the resulting text to the user.",
       "skills": [
-        "biznext-monthly-report"
+        "biznext-reporting"
       ],
-      "skill": "biznext-monthly-report",
+      "skill": "biznext-reporting",
       "model": null,
       "provider": null,
       "base_url": null,
@@ -45,7 +45,7 @@
         "terminal",
         "file"
       ],
-      "workdir": "C:\\Users\\DatLM6\\AppData\\Local\\hermes\\skills\\software-development\\biznext-monthly-report",
+      "workdir": "/opt/data/skills/software-development/biznext-reporting",
       "profile": null
     }
   ],

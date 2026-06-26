@@ -82,13 +82,13 @@
     "created_at": "2026-06-03T03:50:13.922596+00:00",
     "created_by": "agent",
     "last_patched_at": "2026-06-15T03:08:35.534800+00:00",
-    "last_used_at": "2026-06-22T06:40:16.633054+00:00",
-    "last_viewed_at": "2026-06-22T06:40:16.619056+00:00",
+    "last_used_at": "2026-06-26T03:20:40.385793+00:00",
+    "last_viewed_at": "2026-06-26T03:20:40.374690+00:00",
     "patch_count": 11,
     "pinned": false,
     "state": "active",
-    "use_count": 22,
-    "view_count": 22
+    "use_count": 25,
+    "view_count": 25
   },
   "blogwatcher": {
     "archived_at": null,

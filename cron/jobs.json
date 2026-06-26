@@ -29,12 +29,12 @@
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-06-03T11:38:17.068723+07:00",
-      "next_run_at": "2026-06-22T22:00:00+07:00",
+      "next_run_at": "2026-06-26T22:00:00+07:00",
       "last_run_at": null,
       "last_status": null,
       "last_error": null,
       "last_delivery_error": null,
-      "deliver": "origin",
+      "deliver": "telegram",
       "origin": {
         "platform": "telegram",
         "chat_id": "987142896",
@@ -49,5 +49,5 @@
       "profile": null
     }
   ],
-  "updated_at": "2026-06-22T08:23:10.118648+07:00"
+  "updated_at": "2026-06-26T09:32:10.084142+07:00"
 }
